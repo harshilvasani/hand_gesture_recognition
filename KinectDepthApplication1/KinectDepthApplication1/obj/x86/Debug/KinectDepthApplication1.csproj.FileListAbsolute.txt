@@ -1,0 +1,11 @@
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\bin\Debug\KinectDepthApplication1.exe
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\bin\Debug\KinectDepthApplication1.pdb
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\KinectDepthApplication1_MarkupCompile.cache
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\KinectDepthApplication1.g.resources
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\KinectDepthApplication1.Properties.Resources.resources
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\KinectDepthApplication1.csproj.GenerateResource.Cache
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\KinectDepthApplication1.exe
+C:\Users\Harshin\Documents\Visual Studio 2010\Projects\KinectDepthApplication1\KinectDepthApplication1\obj\x86\Debug\KinectDepthApplication1.pdb
